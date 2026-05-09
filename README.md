@@ -35,7 +35,7 @@ toast.danger("Something Went Wrong ❌")
 # ⬇️ Download & Install
 
 ```bash
-npm install pingtoast
+npm install pingtoastjs
 ```
 
 ---
@@ -45,7 +45,7 @@ npm install pingtoast
 ## NPM
 
 ```bash
-npm install pingtoast
+npm install pingtoastjs
 ```
 
 ## CDN
